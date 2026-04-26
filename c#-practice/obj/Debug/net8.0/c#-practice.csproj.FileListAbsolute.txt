@@ -1,0 +1,15 @@
+C:\Users\jomec\source\repos\c#-practice\c#-practice\bin\Debug\net8.0\c#-practice.exe
+C:\Users\jomec\source\repos\c#-practice\c#-practice\bin\Debug\net8.0\c#-practice.deps.json
+C:\Users\jomec\source\repos\c#-practice\c#-practice\bin\Debug\net8.0\c#-practice.runtimeconfig.json
+C:\Users\jomec\source\repos\c#-practice\c#-practice\bin\Debug\net8.0\c#-practice.dll
+C:\Users\jomec\source\repos\c#-practice\c#-practice\bin\Debug\net8.0\c#-practice.pdb
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\c#-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\c#-practice.AssemblyInfoInputs.cache
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\c#-practice.AssemblyInfo.cs
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\c#-practice.csproj.CoreCompileInputs.cache
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\c#-practice.sourcelink.json
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\c#-practice.dll
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\refint\c#-practice.dll
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\c#-practice.pdb
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\c#-practice.genruntimeconfig.cache
+C:\Users\jomec\source\repos\c#-practice\c#-practice\obj\Debug\net8.0\ref\c#-practice.dll
