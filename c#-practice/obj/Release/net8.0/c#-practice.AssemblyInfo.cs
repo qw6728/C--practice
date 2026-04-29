@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("c#-practice")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+782bff56478104e1825e0df2621aeaa61fa10d56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2cdab7e0cb83c9f00aa9bbdfee20cd264ddf002")]
 [assembly: System.Reflection.AssemblyProductAttribute("c#-practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c#-practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
