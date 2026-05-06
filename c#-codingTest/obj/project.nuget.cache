@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "q47sfUExKxA=",
+  "dgSpecHash": "TM4tWXsMurE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jomec\\source\\repos\\c#-practice\\c#-codingTest\\c#-codingTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\WIN 11\\source\\repos\\qw6728\\C--practice\\c#-codingTest\\c#-codingTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WIN 11\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\WIN 11\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\WIN 11\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\WIN 11\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

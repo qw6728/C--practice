@@ -6,6 +6,7 @@
     <RootNamespace>c__codingTest</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>CodingTest2</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -1,0 +1,5 @@
+C:\Users\WIN 11\source\repos\qw6728\C--practice\c#-codingTest\obj\Debug\net8.0\c#-codingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 11\source\repos\qw6728\C--practice\c#-codingTest\obj\Debug\net8.0\c#-codingTest.AssemblyInfoInputs.cache
+C:\Users\WIN 11\source\repos\qw6728\C--practice\c#-codingTest\obj\Debug\net8.0\c#-codingTest.AssemblyInfo.cs
+C:\Users\WIN 11\source\repos\qw6728\C--practice\c#-codingTest\obj\Debug\net8.0\c#-codingTest.csproj.CoreCompileInputs.cache
+C:\Users\WIN 11\source\repos\qw6728\C--practice\c#-codingTest\obj\Debug\net8.0\c#-codingTest.sourcelink.json
